@@ -1,0 +1,30 @@
+{
+  "name": "baajao",
+  "version": "1.0.0",
+  "description": "Baajao is the place where you can enjoy latest songs for free.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aviditya/baajao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aviditya/baajao/issues"
+  },
+  "homepage": "https://github.com/Aviditya/baajao#readme",
+  "dependencies": {
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.2",
+    "vite": "^8.0.16"
+  }
+}
